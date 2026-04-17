@@ -6,7 +6,7 @@
 
 ## Motivation
 
-When I was in undergrad, I was shocked by how few of the Earth Science / Environmental Science classes I took at Columbia introduced/implemented programming in Python. Yet, in research opportunities (and even the department's senior thesis!) we were expected to use programming to various degrees. It's intimidating to learn a new, complex topic right when you need it. And, to some extent, I saw it be a barrier for people who felt they couldn't pursue certain opportunities or achieve the analyses they wanted because they didn't have an environment in which to gain these skills!
+When I was in undergrad, I was shocked by how few of the Earth Science / Environmental Science classes I took at Columbia introduced/implemented programming. Yet, in research opportunities (and even the department's senior thesis!) we were expected to use programming to various degrees. It's intimidating to learn a new, complex topic right when you need it. And, to some extent, I saw it be a barrier for people who felt they couldn't pursue certain opportunities or achieve the analyses they wanted because they didn't have an environment in which to gain these skills!
 
 For the past two years, I've surveyed students before they take Solid Earth with us to gauge their exposure to programming. While over a quarter have generally been exposed to it in non-earth science courses, fewer than 15% have used Python in another earth science course.
 

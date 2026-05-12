@@ -31,7 +31,11 @@ As you can see, the majority of students are either very uncomfortable or uncomf
 
 ## About the Notebooks
 
-```To do```
+- **00 - Introduction: **Introduces Python fundamentals, NumPy, and plotting with Matplotlib
+- **01 - Fractional Crystallization: **A mathematical and visual conceptualization of fractional crystallization, a confusing topic!
+- **02 - Plate Tectonics: **Introduces querying databases and mapping
+- **03 - Big Data and MORBS: **Real-world practice/application using databases, plotting, and mapping
+- **04 - Geochronology: **Explores thermochronologic modeling
 
 ---
 
